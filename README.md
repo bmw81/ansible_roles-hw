@@ -78,3 +78,5 @@ ansible-galaxy role init ./roles/nginx-role
 [Nginx Role](https://github.com/bmw81/nginx-role)
 
 [Lighthouse Role](https://github.com/bmw81/lighthouse-role)
+
+[Playbook](https://github.com/bmw81/ansible_roles-hw/tree/main/playbook)
